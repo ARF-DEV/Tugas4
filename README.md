@@ -1,7 +1,7 @@
 # Tugas4 (Eksprorasi Expo API)
-## Muhammad Ariefuddin Satria Dharma
-## 119140149
-## PAM RD
+## Nama : Muhammad Ariefuddin Satria Dharma
+## NIM : 119140149
+## Kelas : PAM RD
 
 ## Nama Aplikasi : SMSin
 ## Deskripsi
